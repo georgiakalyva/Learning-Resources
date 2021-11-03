@@ -41,5 +41,4 @@ As you continue your learning beyond the courses you’ll have many resources av
 
 
 
-###### Content Created and maintained by Georgia Kalyva, Microsoft Technical Trainer @ Microsoft
-###### [LinkedIn](https://www.linkedin.com/in/georgiakalyva/) \* [Twitter](https://twitter.com/georgiakalyva) \* [Blog](https://www.codestories.gr/) \* [Facebook](https://www.facebook.com/codestoriesgr/) \* [Youtube](https://www.youtube.com/channel/UCRqeLEhnEjYiRwhjwOmVXDg)
+###### Content Created and maintained by Georgia Kalyva, Microsoft Technical Trainer @ Microsoft \* [LinkedIn](https://www.linkedin.com/in/georgiakalyva/) \* [Twitter](https://twitter.com/georgiakalyva) \* [Blog](https://www.codestories.gr/) \* [Facebook](https://www.facebook.com/codestoriesgr/) \* [Youtube](https://www.youtube.com/channel/UCRqeLEhnEjYiRwhjwOmVXDg)
