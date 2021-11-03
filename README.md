@@ -15,3 +15,7 @@ As you continue your learning beyond the courses you’ll have many resources av
 
 ## Certification Specific Learning Resources
 
+- [Course AI-102](https://github.com/georgiakalyva/learningresources/blob/main/AI-102.md "Course AI-102")
+- [Course DP-100](https://github.com/georgiakalyva/learningresources/blob/main/DP-100.md "Course DP-100")
+- [Course DP-090](https://github.com/georgiakalyva/learningresources/blob/main/DP-090.md "Course DP-090")
+
