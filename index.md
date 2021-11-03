@@ -34,3 +34,5 @@ As you continue your learning beyond the courses you’ll have many resources av
 - [Course AI-102](https://georgiakalyva.github.io/Learning-Resources/ai-102.html "Course AI-102")
 - [Course DP-100](https://georgiakalyva.github.io/Learning-Resources/dp-100.html "Course DP-100")
 - [Course DP-090](https://georgiakalyva.github.io/Learning-Resources/dp-090.html "Course DP-090")
+- [Course AZ-104](https://georgiakalyva.github.io/Learning-Resources/dp-090.html "Course DP-090")
+
