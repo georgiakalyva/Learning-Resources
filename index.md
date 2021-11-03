@@ -16,6 +16,7 @@ As you continue your learning beyond the courses you’ll have many resources av
 ## Microsoft/ESI Program links
 - [Exam Discount Video](https://www.microsoft.com/en-us/videoplayer/embed/RE4zwHz)
 - [ESI customer portal](https://esi.microsoft.com/)
+- [ESI support](https://esisupport.microsoft.com/)
 - [ESI Learn On Demand Labs](https://esi.learnondemand.net/ "ESI Learn On Demand Labs")
 - [Skillpipe](https://www.skillpipe.com/ "Skillpipe")
 - [Microsoft exam question types](https://docs.microsoft.com/en-us/learn/certifications/exam-duration-question-types#question-types-on-exams)
