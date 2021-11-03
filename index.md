@@ -27,6 +27,7 @@ As you continue your learning beyond the courses you’ll have many resources av
 - [Azure blog](https://azure.microsoft.com/en-us/blog/)
 - [Azure forums](https://social.msdn.microsoft.com/Forums/enUS/home?category=windowsazureplatform)
 - [Azure Pricing Calculator](https://azure.microsoft.com/en-in/pricing/calculator/)
+- [Total Cost of Ownership (TCO) Calculator](https://azure.microsoft.com/en-us/pricing/tco/calculator/)
 
 ## Certification Specific Learning Resources
 
