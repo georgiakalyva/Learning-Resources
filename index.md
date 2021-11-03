@@ -13,6 +13,19 @@ As you continue your learning beyond the courses you’ll have many resources av
 - [Certification Poster](https://www.aka.ms/TrainCertPoster "Certification Poster")
 - [Microsoft Docs](https://www.aka.ms/Docs "Microsoft Docs")
 
+## Microsoft/ESI Program links:
+- [Exam Discount Video](https://www.microsoft.com/en-us/videoplayer/embed/RE4zwHz)
+- [ESI customer portal](https://esi.microsoft.com/)
+- [Microsoft exam question types](https://docs.microsoft.com/en-us/learn/certifications/exam-duration-question-types#question-types-on-exams)
+- [ESI Study Guides](https://aka.ms/ESIStudyGuides) for various exams
+
+## Azure Resources:
+- [Azure Fridays](https://azure.microsoft.com/en-us/resources/videos/azure-friday/)
+- [Channel 9](https://channel9.msdn.com/)
+- [Azure blog](https://azure.microsoft.com/en-us/blog/)
+- [Azure forums](https://social.msdn.microsoft.com/Forums/enUS/home?category=windowsazureplatform)
+- [Azure Pricing Calculator](https://azure.microsoft.com/en-in/pricing/calculator/)
+
 ## Certification Specific Learning Resources
 
 - [Course AI-102](https://github.com/georgiakalyva/learningresources/blob/main/AI-102.md "Course AI-102")
