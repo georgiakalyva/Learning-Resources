@@ -2,7 +2,7 @@
 
 # ESI Learning Resources
 
-As you continue your learning beyond the courses you’ll have many resources available to you. These sites complement this course and the learning and certification journey ahead of you. 
+As you continue your learning beyond the courses you’ll have many resources available to you. These sites complement this course and the learning and certification journey ahead of you.
 
 ## General Learning Resources
 
