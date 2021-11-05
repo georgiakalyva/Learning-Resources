@@ -38,3 +38,5 @@ As you continue your learning beyond the courses you’ll have many resources av
 - [Course AZ-104](https://georgiakalyva.github.io/Learning-Resources/az-104.html "Course AZ-104")
 
 ##### Content Created and maintained by Georgia Kalyva, Microsoft Technical Trainer @ Microsoft \* [LinkedIn](https://www.linkedin.com/in/georgiakalyva/) \* [Twitter](https://twitter.com/georgiakalyva) \* [Blog](https://www.codestories.gr/) \* [Facebook](https://www.facebook.com/codestoriesgr/) \* [Youtube](https://www.youtube.com/channel/UCRqeLEhnEjYiRwhjwOmVXDg)
+
+[![](https://github.com/georgiakalyva/learningresources/raw/main/assets/ESIend.jpg)](https://github.com/georgiakalyva/learningresources/raw/main/assets/ESIend.jpg)
