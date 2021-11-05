@@ -1,4 +1,4 @@
-[![](https://github.com/georgiakalyva/learningresources/raw/main/assets/ESI.png)](https://github.com/georgiakalyva/learningresources/raw/main/assets/ESI.png)
+[![](https://github.com/georgiakalyva/learningresources/raw/main/assets/ESI.png)](https://github.com/georgiakalyva/learningresources/raw/main/assets/ESIms.jpg)
 
 # ESI & Azure Learning Resources
 
