@@ -21,6 +21,7 @@ As you continue your learning beyond the courses you’ll have many resources av
 - [Skillpipe](https://www.skillpipe.com/ "Skillpipe")
 - [Microsoft exam question types](https://docs.microsoft.com/en-us/learn/certifications/exam-duration-question-types#question-types-on-exams)
 - [ESI Study Guides](https://aka.ms/ESIStudyGuides) for various exams
+- [How to redeem an Azure Pass] (https://www.microsoftazurepass.com/Home/HowTo)
 
 ## Azure Resources
 - [Azure Fridays](https://azure.microsoft.com/en-us/resources/videos/azure-friday/)
