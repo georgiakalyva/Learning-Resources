@@ -19,11 +19,10 @@ As you continue your learning beyond the courses you’ll have many resources av
 - [ESI support](https://esisupport.microsoft.com/)
 - [ESI Learn On Demand Labs](https://esi.learnondemand.net/ "ESI Learn On Demand Labs")
 - [Skillpipe](https://www.skillpipe.com/ "Skillpipe")
-
 - [ESI Study Guides](https://aka.ms/ESIStudyGuides) for various exams
 - [How to redeem an Azure Pass](https://www.microsoftazurepass.com/Home/HowTo)
 
-##Exam Preparation
+## Exam Preparation
 - [Microsoft exam question types](https://docs.microsoft.com/en-us/learn/certifications/exam-duration-question-types#question-types-on-exams)
 - [Microsoft Exam Demo](http://aka.ms/examdemo)
 
