@@ -33,6 +33,8 @@ As you continue your learning beyond the courses you’ll have many resources av
 - [Azure forums](https://social.msdn.microsoft.com/Forums/enUS/home?category=windowsazureplatform)
 - [Azure Pricing Calculator](https://azure.microsoft.com/en-in/pricing/calculator/)
 - [Total Cost of Ownership (TCO) Calculator](https://azure.microsoft.com/en-us/pricing/tco/calculator/)
+- [Microsoft Trainer Community Channel](https://aka.ms/mtcc)
+- [Free Azure E-books](https://azure.microsoft.com/en-us/resources/whitepapers/)
 
 ## Certification Specific Learning Resources
 
