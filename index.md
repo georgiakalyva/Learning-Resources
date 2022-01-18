@@ -42,7 +42,7 @@ As you continue your learning beyond the courses you’ll have many resources av
 - [Course DP-100](https://georgiakalyva.github.io/Learning-Resources/dp-100.html "Course DP-100")
 - [Course DP-090](https://georgiakalyva.github.io/Learning-Resources/dp-090.html "Course DP-090")
 - [Course AZ-104](https://georgiakalyva.github.io/Learning-Resources/az-104.html "Course AZ-104")
-- Course AZ-204 (Coming soon)
+- [Course AZ-204](https://georgiakalyva.github.io/Learning-Resources/az-204.html "Course AZ-204")
 
 ##### Content Created and maintained by Georgia Kalyva, Microsoft Technical Trainer @ Microsoft \* [LinkedIn](https://www.linkedin.com/in/georgiakalyva/) \* [Twitter](https://twitter.com/georgiakalyva) \* [Blog](https://www.codestories.gr/) \* [Facebook](https://www.facebook.com/codestoriesgr/) \* [Youtube](https://www.youtube.com/channel/UCRqeLEhnEjYiRwhjwOmVXDg)
 
