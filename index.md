@@ -22,9 +22,10 @@ As you continue your learning beyond the courses you’ll have many resources av
 - [ESI Study Guides](https://aka.ms/ESIStudyGuides) for various exams
 - [How to redeem an Azure Pass](https://www.microsoftazurepass.com/Home/HowTo)
 
-## Exam Preparation
+## Certification Exam Preparation & Renewal
 - [Microsoft exam question types](https://docs.microsoft.com/en-us/learn/certifications/exam-duration-question-types#question-types-on-exams)
 - [Microsoft Exam Demo](http://aka.ms/examdemo)
+- [Renew your Microsoft Certification](https://docs.microsoft.com/en-us/learn/certifications/renew-your-microsoft-certification)
 
 ## Azure Resources
 - [Azure Fridays](https://azure.microsoft.com/en-us/resources/videos/azure-friday/)
